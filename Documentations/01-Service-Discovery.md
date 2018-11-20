@@ -14,6 +14,9 @@ We will focus on Spring Cloud Netflix:
 - Spring Cloud Netflix Eureka Server
 - Spring Cloud Netflix Eureka client.
 
+## Discovery diagram
+![Diagrame](Capture-Discovery-service-1.JPG)
+
 
 
 
